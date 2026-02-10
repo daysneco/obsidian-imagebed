@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-imagebed",
+  "name": "Obsidian Imagebed",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Upload pasted images to GitHub and insert raw.githubusercontent.com links.",
+  "author": "ByteTavern",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
